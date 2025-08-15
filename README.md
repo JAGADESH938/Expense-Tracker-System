@@ -40,13 +40,3 @@ A simple yet powerful desktop application for tracking and managing your persona
 The application window will appear, and you can start tracking your expenses!
 
 
-
-
-## 🛠️ Built With
-
-* **Java Swing:** For the graphical user interface.
-
-
-Your Name - [Your Email Address](mailto:your.email@example.com)
-
-Project Link: [https://github.com/your-username/expense-tracker-pro](https://github.com/your-username/expense-tracker-pro)
